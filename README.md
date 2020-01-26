@@ -11,3 +11,11 @@ https://docs.google.com/presentation/d/17TFeyLGzB1XREtgiyTsmypMWfS7vDUQDTlOoLDSt
 
 ANN Colab Notebook :
 https://colab.research.google.com/drive/1Qrc7sCxHppG9UDqQWAOhC7FBFzeKJII1
+
+
+Neural Network Viz:
+https://playground.tensorflow.org/
+
+CNN Viz:
+https://www.cs.ryerson.ca/~aharley/vis/conv/
+
