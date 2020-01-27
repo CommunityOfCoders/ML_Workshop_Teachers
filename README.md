@@ -9,6 +9,9 @@ https://docs.google.com/presentation/d/1-OSNB7SKiHZqvTNRcf5-U7iBHR6nj_kUTY69FjDn
 Decision Trees and Random Forests PPT :
 https://docs.google.com/presentation/d/17TFeyLGzB1XREtgiyTsmypMWfS7vDUQDTlOoLDStKZc/edit?usp=sharing
 
+CNN PPT:
+https://docs.google.com/presentation/d/1GfTHRFfTGCCNpM4O-nTQcfQbN62Z8jpRDd34nhCbrFE/edit?usp=sharing
+
 ANN Colab Notebook :
 https://colab.research.google.com/drive/1Qrc7sCxHppG9UDqQWAOhC7FBFzeKJII1
 
